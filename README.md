@@ -38,7 +38,7 @@ I'm open to collaborating on projects related to:
 ## 📫 How to Reach Me
 - 📧 **Email**: ashfaq.1997.b@gmail.com  
 - 📞 **Phone**: +91 8884231443  
-- 🌐 **Portfolio**: [My Portfolio](https://your-portfolio-link.com)
+- 🌐 **Portfolio**: [My Portfolio](https://mohammedashfaql.github.io/)
 
 ---
 
