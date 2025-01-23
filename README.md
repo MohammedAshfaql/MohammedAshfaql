@@ -20,7 +20,7 @@
 ---
 
 ## 💼 Projects
-  **LetsChat**
+ 
 - 🔗 **[LetsChat App](https://serene-kleicha-e025b4.netlify.app/)**  
   A real-time chat application with Socket.io, JWT Authentication, and a clean UI.  
   - **GitHub Repo**: [LetsChat App](https://github.com/MohammedAshfaql/CHAT_APP)  
