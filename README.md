@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed Ashfaq!
 
 💻 **MERN Stack Developer**  
-🌟 Passionate about building scalable web applications and creating impactful user experiences.  
+🌟 Passionate about building scalable web applications and creating impactful user experiences.I've had the privilege of building multiple projects, each teaching me something new and sharpening my skills. I believe in lifelong learning and love taking up online courses to stay updated in this ever-evolving tech world.  
 
 ---
 
@@ -20,10 +20,18 @@
 ---
 
 ## 💼 Projects
+  **LetsChat**
 - 🔗 **[LetsChat App](https://serene-kleicha-e025b4.netlify.app/)**  
   A real-time chat application with Socket.io, JWT Authentication, and a clean UI.  
   - **GitHub Repo**: [LetsChat App](https://github.com/MohammedAshfaql/CHAT_APP)  
   - **Features**: Instant messaging, authentication, and secure communication.
+--
+ **Calories Tracker**
+ - 🔗 **[Calories_Tracker](https://kcalfoodie.netlify.app/)** 
+ Developed a web application to help users track and manage their calorie intake.
+ Generate QR codes containing nutritional information for easy sharing.
+ Calculate the total calories of selected food items.
+- **GitHub Repo**: [Calories_Tracker](https://github.com/abhi-nav-anand/Calorie-calculation)
 
 ---
 
@@ -39,6 +47,8 @@ I'm open to collaborating on projects related to:
 - 📧 **Email**: ashfaq.1997.b@gmail.com  
 - 📞 **Phone**: +91 8884231443  
 - 🌐 **Portfolio**: [My Portfolio](https://mohammedashfaql.github.io/)
+-    **Linkedin**: [My Linkedin](https://www.linkedin.com/in/mohammedashfaql/)
+
 
 ---
 
